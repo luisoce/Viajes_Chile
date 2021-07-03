@@ -1,0 +1,44 @@
+/* BODY */
+body {
+  background-color: #000000;
+}
+
+/* NAVBAR */
+.navbar-brand {
+  font-size: 18px;
+}
+
+.navbar-negro {
+    background-color: #000000;
+}
+/* HEADER */
+.carousel-item {
+  height: 40rem;
+}
+
+.iconos {
+  background: #17a2b8;
+  text-align: center;
+}
+
+/* CARD */
+.card {
+  background: #17a2b8;
+}
+
+.card-title {
+  color: #ffffff;
+}
+
+.card-text {
+  color: #ffffff;
+}
+
+hr {
+  background: #17a2b8;
+  width: 90%;
+}
+
+#Footer {
+  background: #17a2b8;
+}
