@@ -1,4 +1,4 @@
-//cambiar color navbar segun posicion scroll
+//CAMBIAR COLOR NAVBAR SEGUN POSICION SCROLL
 $(window).scroll(function () {
   let pos = $(window).scrollTop(); //obtengo posicion scroll
   if (pos < 100) {
