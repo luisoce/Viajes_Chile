@@ -11,10 +11,6 @@ body {
 .navbar-negro {
   background-color: #000000;
 }
-/* HEADER */
-.carousel-item {
-  height: 40rem;
-}
 
 .iconos {
   background: #17a2b8;
