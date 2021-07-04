@@ -18,6 +18,19 @@ body {
 }
 
 /* CARD */
+.imagen-destacadas {
+  cursor: pointer;
+  transition: all ease-out 0.2s;
+}
+
+.imagen-destacadas:hover {
+  transform: scale(1.05);
+}
+
+.imagen-card {
+  height: 168px;
+}
+
 .card {
   background: #17a2b8;
 }
